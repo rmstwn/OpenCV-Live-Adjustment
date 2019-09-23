@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+e:\github\college\opencv\live adjustment\consoleapplication2\consoleapplication2.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\github\college\opencv\live adjustment\consoleapplication2\consoleapplication2.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> E:\Github\College\OpenCV\Live Adjustment\x64\Debug\ConsoleApplication2.exe
